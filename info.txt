@@ -1,0 +1,21 @@
+useEffect panaudojimas pagal aplinkas : 
+CRA - (Create React App)
+--state management on useState, useReducer
+   ---useEffect then use for: 
+       -1 Get Data From aplinkas  
+       -2 Actions in components created | updated | removed
+--state management on REDUX
+   ---useEffect then used for:
+      -1 Get data from API (could be done without useEffect)
+      -2 action in components when created | updated | removed
+
+ - useEffect used for: 
+--Next js
+  ---action in components when created | updated | removed
+--Gasby js
+-- useEffect used for: 
+  ---action in components when created | updated | removed
+--Custom 
+-- useEffect used for: 
+  ---action in components when created | updated | removed
+  ---get data from API (could be done without useEffect)
